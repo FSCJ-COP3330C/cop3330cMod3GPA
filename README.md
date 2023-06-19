@@ -1,1 +1,1 @@
-# cop3330cMod3GPA
+# COP3330C Module 3 Programming Assignment
